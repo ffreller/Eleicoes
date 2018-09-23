@@ -37,7 +37,7 @@ df = pd.DataFrame(tabela[1:], columns=['ANO', 'UF', 'CARGO', 'QTD_HOMENS', 'QTD_
 df.to_csv('RESULTADOS/deferidos.csv', encoding='latin-1')
 print(df['p_MULHERES'].groupby(df['ANO']).mean())
 print(df['p_DEFERIDOS_ENTRE_MULHERES'].groupby(df['ANO']).mean())
-col = df.ANO.map({'2014':'b', '2010':'r', '2006':'y', '2018':'g'})
+col = df.ANO.map({'2018':'g','2014':'b', '2010':'r', '2006':'y'})
 a = df.plot.scatter(x='p_MULHERES', y='p_DEFERIDOS_ENTRE_MULHERES', c=col)
 plt.pyplot.show(a)
 

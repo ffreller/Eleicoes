@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3f5526f-906d-4a5d-9f6c-4fda2137b7bb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="47610648">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="9" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="1" />
+          <entry key="pickle" value="1" />
+          <entry key="py" value="250" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="250" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="67" />
+          <entry key="py" value="19584" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="19651" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ajustar tabelas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-543">
+              <caret line="71" column="72" selection-start-line="71" selection-start-column="72" selection-end-line="71" selection-end-column="72" />
+              <folding>
+                <element signature="e#58#804#0" />
+                <marker date="1537725260000" expanded="true" signature="42:44" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Despesas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GroupBY.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="10" column="55" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Deferidos.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="37" column="25" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>(*)</find>
+      <find>SEQUENCIAL_</find>
+      <find>DES_SITUACAO_CANDIDATURA</find>
+      <find>sep</find>
+      <find>read_csv</find>
+      <find>.csv</find>
+      <find>read_</find>
+      <find>read</find>
+      <find>carg</find>
+      <find>print</find>
+      <find>homem</find>
+      <find>3 rows</find>
+      <find>SIT_TO</find>
+      <find>DESC</find>
+      <find>DES</find>
+      <find>DES_</find>
+      <find>SITUA</find>
+      <find>SITUACAO_CANDIDATURA</find>
+      <find>SITUACAO_CA</find>
+      <find>CODIGO</find>
+      <find>NR_PARTIDO</find>
+      <find>NUMERO</find>
+      <find>SIGLA</find>
+      <find>NR</find>
+      <find>IDADE</find>
+      <find>DETALHE</find>
+      <find>DATA</find>
+      <find>SITUACA</find>
+      <find>DS_DETA</find>
+      <find>CANDIDATURA</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'GENERO'</replace>
+      <replace>'SEXO'</replace>
+      <replace>DADOS/consul</replace>
+      <replace>csv</replace>
+      <replace>f'DADOS/consu</replace>
+      <replace>DADOS1</replace>
+      <replace>SelCargo</replace>
+      <replace>DS</replace>
+      <replace>GENERO</replace>
+      <replace>NM</replace>
+      <replace>cores</replace>
+      <replace>SelPart</replace>
+      <replace>to_pickle</replace>
+      <replace>DS_</replace>
+      <replace>SITUACAO_CAND</replace>
+      <replace>NR</replace>
+      <replace>SG</replace>
+      <replace>DT</replace>
+      <replace>CD</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/Partidos.py" />
+        <option value="$PROJECT_DIR$/locs.py" />
+        <option value="$PROJECT_DIR$/corespartido.py" />
+        <option value="$PROJECT_DIR$/cores.py" />
+        <option value="$PROJECT_DIR$/tabelas.py" />
+        <option value="$PROJECT_DIR$/teste.py" />
+        <option value="$PROJECT_DIR$/venv/Despesas.py" />
+        <option value="$PROJECT_DIR$/CorespAno.py" />
+        <option value="$PROJECT_DIR$/MulherespPartido.py" />
+        <option value="$PROJECT_DIR$/MulhereseCor.py" />
+        <option value="$PROJECT_DIR$/CoresColunas.py" />
+        <option value="$PROJECT_DIR$/MulheresepCorpPartido.py" />
+        <option value="$PROJECT_DIR$/MulherespAno.py" />
+        <option value="$PROJECT_DIR$/CorespPartido.py" />
+        <option value="$PROJECT_DIR$/MulherespPartidopAno.py" />
+        <option value="$PROJECT_DIR$/CorespPartidopAno.py" />
+        <option value="$PROJECT_DIR$/ComInput.py" />
+        <option value="$PROJECT_DIR$/%CorespPartidopEleicao.py" />
+        <option value="$PROJECT_DIR$/%CorespEleicao.py" />
+        <option value="$PROJECT_DIR$/%MulherespEleicao.py" />
+        <option value="$PROJECT_DIR$/%MulherespPartidopEleicao.py" />
+        <option value="$PROJECT_DIR$/CadaCorUmaLinha.py" />
+        <option value="$PROJECT_DIR$/venv/teste.py" />
+        <option value="$PROJECT_DIR$/Mulheres.py" />
+        <option value="$PROJECT_DIR$/teste1.py" />
+        <option value="$PROJECT_DIR$/Despesas.py" />
+        <option value="$PROJECT_DIR$/Cores.py" />
+        <option value="$PROJECT_DIR$/GroupBY.py" />
+        <option value="$PROJECT_DIR$/SITUACAO.py" />
+        <option value="$PROJECT_DIR$/novo.py" />
+        <option value="$PROJECT_DIR$/ajustar tabelas.py" />
+        <option value="$PROJECT_DIR$/Deferidos.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="68" />
+    <option name="y" value="23" />
+    <option name="width" value="1298" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Eleicoes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Eleicoes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Deferidos">
+    <configuration name="Deferidos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Eleicoes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deferidos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GroupBY" type="PythonConfigurationType" factoryName="Python">
+      <module name="Eleicoes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GroupBY.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SITUACAO" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Eleicoes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SITUACAO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ajustar tabelas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Eleicoes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ajustar tabelas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="novo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Eleicoes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/novo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Eleicoes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.GroupBY" />
+      <item itemvalue="Python.SITUACAO" />
+      <item itemvalue="Python.teste1" />
+      <item itemvalue="Python.ajustar tabelas" />
+      <item itemvalue="Python.novo" />
+      <item itemvalue="Python.Deferidos" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Deferidos" />
+        <item itemvalue="Python.ajustar tabelas" />
+        <item itemvalue="Python.novo" />
+        <item itemvalue="Python.SITUACAO" />
+        <item itemvalue="Python.teste1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3f5526f-906d-4a5d-9f6c-4fda2137b7bb" name="Default Changelist" comment="" />
+      <created>1536248313386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536248313386</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="68" y="23" width="1298" height="745" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980423" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32924962" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32924962" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39969373" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32924962" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980423" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32924962" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32924962" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39969373" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32924962" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/consulta_cand_2018_SP.pickle" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/pandas/core/indexes/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="2135" selection-start-line="2135" selection-end-line="2135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tabelaporeleicao.csv" />
+    <entry file="file://$PROJECT_DIR$/main.py" />
+    <entry file="file://$PROJECT_DIR$/locs.py" />
+    <entry file="file://$PROJECT_DIR$/corespartido.py" />
+    <entry file="file://$PROJECT_DIR$/Partidos.py" />
+    <entry file="file://$PROJECT_DIR$/tabelas.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Despesas.py" />
+    <entry file="file://$PROJECT_DIR$/MulheresRaca.py" />
+    <entry file="file://$PROJECT_DIR$/MulhereseCor.py" />
+    <entry file="file://$PROJECT_DIR$/CoresColunas.py" />
+    <entry file="file://$PROJECT_DIR$/MulheresepCorpPartido.py" />
+    <entry file="file://$PROJECT_DIR$/MulherespPartido.py" />
+    <entry file="file://$PROJECT_DIR$/MulherespAno.py" />
+    <entry file="file://$PROJECT_DIR$/CorespAno.py" />
+    <entry file="file://$PROJECT_DIR$/CorespPartido.py" />
+    <entry file="file://$PROJECT_DIR$/CorespPartidopAno.py" />
+    <entry file="file://$PROJECT_DIR$/MulherespPartidopAno.py" />
+    <entry file="file://$PROJECT_DIR$/ComInput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/%MulherespEleicao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CadaCorUmaLinha.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/%CorespPartidopEleicao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/%MulherespPartidopEleicao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-229">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/teste.py" />
+    <entry file="file://$PROJECT_DIR$/teste.py" />
+    <entry file="file://$PROJECT_DIR$/teste1.py" />
+    <entry file="file://$PROJECT_DIR$/%CorespEleicao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="52" selection-start-line="52" selection-end-line="52" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mulheres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="74" column="29" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cores.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="34" column="97" selection-start-line="34" selection-start-column="97" selection-end-line="34" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SITUACAO.py" />
+    <entry file="file://$PROJECT_DIR$/novo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Despesas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GroupBY.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajustar tabelas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-543">
+          <caret line="71" column="72" selection-start-line="71" selection-start-column="72" selection-end-line="71" selection-end-column="72" />
+          <folding>
+            <element signature="e#58#804#0" />
+            <marker date="1537725260000" expanded="true" signature="42:44" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deferidos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="37" column="25" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
